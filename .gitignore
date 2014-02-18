@@ -8,3 +8,4 @@ docs
 *.iml
 .idea
 src/main/.classpath
+src/main/proguard-project.txt
